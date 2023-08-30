@@ -1,17 +1,17 @@
-### Hi there 👋
 <div align=center>
-	<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=JOOEUN%20Github!&fontSize=90" />
-<!--
-**kimjoosilver/kimjoosilver** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+	<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=JOOEUN%20KIM&fontSize=90" />
+</div>
 
-Here are some ideas to get you started:
+ ### Hi, Welcome to my Github 👋
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I am an entry-level AI engineer from South Korea.  I am enthusiastic and eager to contribute to the team through attention to detail and hard work.
+
+
+# profile
+
+[You can see my profile on here](https://www.linkedin.com/in/jooeun-kim-767a39202/)
+
+# Tech Stack
+
+<!--https://img.shields.io/badge/텍스트-뱃지컬러?style=flat-square&logo=이모지이름&logoColor=white
+<img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>-->
